@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotePhone</string>
+    <string name="search">Search</string>
+    <string name="note_title">Notes Title</string>
+    <string name="note_sub">Notes Subtitle</string>
+    <string name="note_desc">Enter Note Here</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
